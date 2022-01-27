@@ -1,0 +1,4 @@
+Testes funcionais se baseiam em um fluxo completo (uma função) de determinado sistema.
+Ou seja, em um teste funcional, testa-se uma funcionalidade completa do sistema.
+Por outro lado, testes de unidade, bem como o nome já ressalta, testam pequenas unidades,
+ou pequenas partesd de um sistema, como os métodos ou chamadas de pequenas unidades do sistema.
