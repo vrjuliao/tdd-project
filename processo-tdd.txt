@@ -1,0 +1,8 @@
+O incio do processo se dá a partir de um teste funcional, que falhará incialmente.
+A partir de tal falha, seguindo o fluxograma, devemos seguir para a escrita de código
+necessário para que aquele teste funcional.
+Isso significa escrever testes de unidade, que também falharão inicialmente, porém
+a partir desse momento, ingressa-se numa fase de escrita de código e refatoração
+para fazer com que o teste unitátio passe.
+Há então, a repetição desse ultimo processo até que o teste funcional passe, e então
+realiza-se a refatorotação.
